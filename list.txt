@@ -1,0 +1,4 @@
+http://google.fr
+https://216.58.213.131
+216.58.213.131
+https://duckduckgo.com/robots.txt

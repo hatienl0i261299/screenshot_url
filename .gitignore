@@ -1,0 +1,7 @@
+.idea*
+*.exe
+*.zip
+screenshots/*
+venv/*
+*.png
+chromedriver

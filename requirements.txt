@@ -1,0 +1,4 @@
+future
+argparse~=1.4.0
+selenium~=4.1.2
+Pillow~=9.0.1

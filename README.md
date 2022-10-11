@@ -1,0 +1,1 @@
+python webscreenshot.py -o "abc" -on "abc.png" -r chrome https://zingmp3.vn/
